@@ -1,0 +1,16 @@
+
+Share this selection
+
+You are viewing a selection of fonts, including 1 typeface in 1 style from the Google Fonts directory. To share, copy and send the URL for this page. The URL does not expire and can be viewed by anyone.
+1. Embed
+
+To embed these fonts into a webpage, copy this code into the <head> of your HTML document.
+STANDARD @IMPORT
+<link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
+2. Specify in CSS
+
+Use the following CSS properties to specify these families:
+
+    font-family: 'Raleway', sans-serif;
+
+For examples of how fonts can be added to webpages, see the getting started guide.
